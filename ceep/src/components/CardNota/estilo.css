@@ -1,3 +1,5 @@
+@import url('../../assets/App.css');
+
 .card-nota {
   display: flex;
   flex-direction: column;

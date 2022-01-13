@@ -1,2 +1,2 @@
-import CardNota from "./CardNota"
+import CardNota from "./CardNota.jsx"
 export default CardNota;
